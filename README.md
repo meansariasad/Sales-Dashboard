@@ -82,8 +82,10 @@ The Sales Analytics Dashboard (Power BI) consists of multiple visuals that provi
 ## 📂 Files in Repository 
 
 - `Sales_Dashboard.pbix` → Power BI dashboard file 
-- `Screenshots/` → Dashboard snapshots for quick reference 
+- `Sales Dashboard.png` → Dashboard snapshots for quick reference 
 - `README.md` → Project documentation
+- `Project Requirements.pptx` → Client Requirements for this Dashboard
+- `Sales Data.xlsx` → Excel file
  
 ---
 
